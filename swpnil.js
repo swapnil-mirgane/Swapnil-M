@@ -3108,12 +3108,6 @@ let landmark = [
     landmark: "Ghorpadi- War Memorial (L)",
   },
   {
-    name: "Ghotawde Phata-Calyx Navyangan",
-    coordinates: [18.516742, 73.666035],
-    area: "Ghotawde Phata-Calyx Navyangan",
-    landmark: "Ghotawde Phata-Calyx Navyangan",
-  },
-  {
     name: "Baner-Ganraj Mangal Hall (M)",
     coordinates: [18.5641, 73.7769],
     area: "Baner-Ganraj Mangal Hall (M)",
@@ -3402,12 +3396,6 @@ let landmark = [
     landmark: "Wakad-Garve Hyundai (S)",
   },
   {
-    name: "OOB-Wagholi-Samrudhi Sweets(L)",
-    coordinates: [18.577998, 73.995023],
-    area: "OOB-Wagholi-Samrudhi Sweets(L)",
-    landmark: "OOB-Wagholi-Samrudhi Sweets(L)",
-  },
-  {
     name: "Kiwale-Aadarsh NGR BusStop (S)",
     coordinates: [18.664846, 73.739821],
     area: "Kiwale-Aadarsh NGR BusStop (S)",
@@ -3431,12 +3419,7 @@ let landmark = [
     area: "Magarapatta-Konark Icon (L)",
     landmark: "Magarapatta-Konark Icon (L)",
   },
-  {
-    name: "Wagholi-WagheshwarTempleOOB(L)",
-    coordinates: [18.580633, 73.979081],
-    area: "Wagholi-WagheshwarTempleOOB(L)",
-    landmark: "Wagholi-WagheshwarTempleOOB(L)",
-  },
+
   {
     name: "Hinjewadi - Kasturi Chowk (S)",
     coordinates: [18.599731, 73.74469],
