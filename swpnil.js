@@ -3407,12 +3407,7 @@ let landmark = [
     area: "Punawale-ServiceRoadDominos(S)",
     landmark: "Punawale-ServiceRoadDominos(S)",
   },
-  {
-    name: "Maan Road - Joyville (OOB)",
-    coordinates: [18.568513, 73.721978],
-    area: "Maan Road - Joyville (OOB)",
-    landmark: "Maan Road - Joyville (OOB)",
-  },
+
   {
     name: "Magarapatta-Konark Icon (L)",
     coordinates: [18.523511, 73.932084],
