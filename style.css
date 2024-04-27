@@ -157,9 +157,15 @@ body {
       z-index: 2;
       position: fixed;
       top: 80px;
-      right: 10px;
+      right: 0px;
       margin: 0px;
     }
-
+    #swapnil {
+      position: fixed;
+      bottom: 0;
+      right: 0;
+      margin: 10px;
+      z-index: 2;
+    }
     
   }
