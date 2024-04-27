@@ -29,34 +29,35 @@
 
   <body>
     <div>
-      <header>
-        <div id="Top_bar">
-          <div id="Top_bar1">
-            <label for="GeoCode"><b> GeoCode</b></label>
-            <input
-              type="text"
-              id="GeoCode"
-              placeholder="Enter GeoCode For Search Nearest"
-              autocomplete="off"
-            />
-            <button onclick="myFunctionOnClick_Search()">Search Nearest</button>
-            <button type="button" onClick="window.location.reload();">
-              Clear
-            </button>
-          </div>
-
-          <div id="Top_bar2">
-            <label for="Create_URL"><b>Add GeoCode For URL</b></label>
-            <input
-              type="text"
-              id="Create_URL"
-              placeholder="Enter GeoCode For Create URL"
-              autocomplete="off"
-            />
-            <button onclick="Create_URL_fun()">Generate URL</button>
-          </div>
+      <div id="Top_bar">
+        <div id="Top_bar1">
+          <label for="GeoCode"><b>Add GeoCode</b></label>
+          <input
+            type="text"
+            id="GeoCode"
+            placeholder="Enter GeoCode For Search Nearest"
+            autocomplete="off"
+          />
+          <button onclick="myFunctionOnClick_Search()" id="phoneBTN">
+            Search Nearest
+          </button>
+          <button type="button" onClick="window.location.reload();">
+            Clear
+          </button>
         </div>
-      </header>
+
+        <div id="Top_bar2">
+          <label for="Create_URL"><b>Add GeoCode For URL</b></label>
+          <input
+            type="text"
+            id="Create_URL"
+            placeholder="Enter GeoCode For Create URL"
+            autocomplete="off"
+          />
+          <button onclick="Create_URL_fun()">Generate URL</button>
+        </div>
+      </div>
+
       <div id="map"></div>
       <span id="sp1"
         >Total Point : <b><span id="sp2"></span></b
