@@ -3508,7 +3508,7 @@ let landmark = [
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-//style mapbox://styles/mapbox/streets-v9      "mapbox://styles/mapbox/outdoors-v11"      "mapbox://styles/mapbox/satellite-v9"
+//style mapbox://styles/mapbox/streets-v9      "mapbox://styles/mapbox/outdoors-v11"
 // "mapbox://styles/mapbox/standard"
 let sty = "mapbox://styles/mapbox/outdoors-v9";
 const map = new mapboxgl.Map({
